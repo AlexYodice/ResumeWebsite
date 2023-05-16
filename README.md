@@ -45,9 +45,23 @@ The contact section displays information about my location and contact details. 
 - JavaScript code is included in the HTML file for interactivity.
 
 Feel free to explore the code and modify it as per your requirements.
+
+### Wrbsite Photos:
 ![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/818fc656-c979-4ad7-8a4f-cf649aadcf20)
 
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/9b2cc66d-bc87-42c3-aa0f-5b1365730f71)
 
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/c7b7e5e5-503b-4570-9e58-95f5e7c7f84b)
+
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/0b5a867b-6f6b-4013-979a-71b89b0199c8)
+
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/5822cca2-9c7a-44ea-92e8-ad39b266d304)
+
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/edb1bb05-29e4-481e-ab29-917cffaa63b9)
+
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/49178d2a-4ba2-4a0a-837f-5093c82b1733)
+
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/adac2d16-bb97-4c08-a055-c49d2b9f3373)
 
 
 
