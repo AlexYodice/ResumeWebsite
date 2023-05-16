@@ -45,3 +45,12 @@ The contact section displays information about my location and contact details. 
 - JavaScript code is included in the HTML file for interactivity.
 
 Feel free to explore the code and modify it as per your requirements.
+![image](https://github.com/AlexYodice/ResumeWebsite/assets/116100112/818fc656-c979-4ad7-8a4f-cf649aadcf20)
+
+
+
+
+
+
+
+
